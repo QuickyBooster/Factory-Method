@@ -1,0 +1,14 @@
+F:\SE401\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+F:\SE401\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+F:\SE401\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+F:\SE401\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+F:\SE401\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll
